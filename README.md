@@ -1,1 +1,1 @@
-Project Mu
+![alt text](mu.png)
